@@ -10,6 +10,7 @@ namespace Hello
             Console.WriteLine("Hola, Mundo !");
             Console.WriteLine("Message !");
             Console.WriteLine("Travail !");
+            Console.WriteLine("Travail !");
             Console.ReadKey();
         }
     }
